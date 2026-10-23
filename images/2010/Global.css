@@ -1,0 +1,82 @@
+body{margin:0;padding:0 0 12px 0;font-size:12px; line-height:22px; font-family:Arial, Helvetica, sans-serif; background:#fff;}
+div,form,ul,li,p,h1,h2,h3,h4,h5,h6,dl,dt,dd{margin:0px;padding:0px;}
+input,select{font-size:12px;line-height:16px; vertical-align:middle;}
+img{border:0;}
+ul,li{list-style-type:none;}
+.li{
+white-space:nowrap; 
+text-overflow:ellipsis; 
+-o-text-overflow:ellipsis; 
+overflow: hidden; 
+}
+.tc{text-align:center;}
+.tl{text-align:left;}
+.tr{text-align:right;}
+.dis{display:block;}
+.undis{display:none;}
+.fl{float:left;}
+.fr{float:right;}
+.cl{clear:both;}
+.fb{font-weight:bold;}
+.fnb{font-weight:200;margin-left:-1px;}
+a{color:#333333; text-decoration:none;}
+a {blr:expression(this.onFocus=this.blur())}
+.cur{ cursor:pointer;}
+.hidden{display:none;}
+.block{display:block;}
+
+body {
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+.center{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.bold{
+    font-weight:bold;
+}
+
+.hide{
+    display: none;
+}
+
+.vtop{
+    vertical-align: top;
+}
+.vmiddle{
+    vertical-align: middle;
+}
+.vbottom{
+    vertical-align: bottom;
+}
+.f11{ font-size:11px;}
+.f12{ font-size:12px;}
+.f13{ font-size:13px;}
+.f14{ font-size:14px;}
+.f15{ font-size:15px;}
+.f16{ font-size:16px;}
+
+ 
+.img{border:1px #cccccc solid}
+/* Clear Fix */ 
+.clearfix:after { content:"."; display:block; height:0; clear:both; visibility:hidden; } 
+.clearfix { display:inline-block; } 
+/* Hide from IE Mac */ 
+.clearfix {display:block;} 
+/* End hide from IE Mac */ 
+/* end of clearfix */ 
+.border{ border:1px solid #999;}
+.bg{ background-color:#FFF;}
+.div {word-wrap:break-word;} 
+
+#web_head{width:990px; margin:10px auto 0px auto; }
+#web_logo{background:url(LOGO.gif); height:82px; width:176px;}
+#web_nav{color:#666;  padding-top:10px; position:relative; right:1px; top:1px; }
+#web_nav ul{ text-align:left; float:right}
+#web_nav ul li{ float:left; margin-left:10px; font-size:12px; white-space:nowrap;}
+
+ 

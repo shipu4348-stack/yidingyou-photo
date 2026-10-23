@@ -1,0 +1,1 @@
+document.write('<a href="/" >首页</a> | <a href="register.asp">用户注册</a> |  <a href="forget.asp">找回密码</a> |  <a href="jiaofei.asp"> 交费开通</a> | <a href="about.asp">关于我们</a> | <a href="guide.asp" >帮助信息</a>&nbsp;');

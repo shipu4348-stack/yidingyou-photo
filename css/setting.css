@@ -1,0 +1,123 @@
+body, div, form, li, ul, p, table, h3, h4, h5,input, select {
+	font-family:Arial, "宋体", Helvetica, sans-serif;
+	font-size:12px;
+	margin:0;
+	padding:0;
+}
+body {
+	background-color:#fff;
+}
+.em{
+	padding-left:12px;
+	padding-bottom:10px;
+	font-size:18px;
+	font-family:"宋体";
+	font-style:normal;
+}
+
+#sets_nav {
+	width:100%;
+	list-style:none;
+	height:30px;
+	background:url(../images/0022.gif) repeat-x left top;
+	position:relative;
+	left:-1px;
+	overflow:hidden;
+}
+#sets_nav li {
+	float:left;
+	width:20%;
+	text-align:center;
+	background:url(../images/0023.gif) no-repeat left top;
+	position:relative;
+	margin-right:-1px;
+}
+#sets_nav li a {
+	display:block;
+	text-decoration:none;
+	height:30px;
+	line-height:30px;
+	color:#000;
+	position:relative;
+	left:1px;
+}
+#sets_nav li a:hover{
+	font-weight:bold;
+}
+#sets_nav li.inpos {
+	z-index:100;
+}
+#sets_nav li.inpos a {
+	font-weight:bold;
+	color:#234399;
+	background:#fff url(../images/0024.gif) no-repeat right top;
+	margin-right:-10px;
+}
+.itemlist{
+	padding-left:15px;
+	height:35px;
+}
+.subitem{
+	padding-left:15px;
+	height:80px;
+}
+.prepic{
+	padding-left:15px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+input.text {
+	border:1px solid #b9b9b9;
+	height:18px;
+	padding-left:1px;
+	padding-top:2px;
+	vertical-align:middle;
+}
+textarea.text{border:1px solid #b9b9b9;
+width:300px;
+height:100px; 
+overflow-y:hidden;}
+.helppop {
+	position: absolute;
+	padding:0 0 0 7px;
+	margin:-6px 0 0 14px;
+	width:170px;
+	background:url(../images/0030.gif) no-repeat 0 0;
+}
+.helppop div {
+	line-height:18px;
+	padding:3px 4px 2px 6px;
+	border-bottom:1px solid #a9ddf5;
+	border-right:1px solid #a9ddf5;
+	border-top:1px solid #a9ddf5;
+	background-color:#f2fbff;
+}
+/*通用按钮*/
+.btnt2,.btnt3,.btnt4,.btnt8,.btnt6,.btnt5{
+	background: url(../images/0028.gif) no-repeat left top;
+	height:25px;
+	width:74px;
+	text-align:center;
+	padding:1px 0 0 0;
+	cursor:pointer !important;
+	cursor:hand;
+	border:0;
+	color:#575757;
+	font-size:12px;
+	vertical-align:middle;
+}
+.btnt3{width:74px;}
+.btnt4{width:74px;}
+.btnt5{width:87px;background-position:left -36px;}
+.btnt6{width:102px;background-position:left -66px;}
+.btnt8{width:138px;background-position:left -96px;}
+
+.dirnotice{
+	background:#eef5ff url(../images/0033.gif) no-repeat 10px 9px;
+	line-height:33px;
+	padding-left:28px;
+}
+
+a:link {color: #2b82e9;	text-decoration: none;}
+a:visited {color: #2b82e9;text-decoration: none;}
+a:hover {color: #005cca;text-decoration: none;}

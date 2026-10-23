@@ -1,0 +1,45 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #e0e0e0; MARGIN: 0px; SCROLLBAR-HIGHLIGHT-COLOR: #e0e0e0; SCROLLBAR-SHADOW-COLOR: #e0e0e0; SCROLLBAR-3DLIGHT-COLOR: #e0e0e0; SCROLLBAR-ARROW-COLOR: #ffffff; SCROLLBAR-TRACK-COLOR: #f5f5f5; SCROLLBAR-DARKSHADOW-COLOR: #e0e0e0; BACKGROUND-COLOR: #ffffff
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: "ËÎÌו"
+}
+INPUT {
+	FONT-SIZE: 12px
+}
+SELECT {
+	FONT-SIZE: 12px
+}
+TEXTAREA {
+	FONT-SIZE: 12px
+}
+.style1 {
+	FONT-WEIGHT: bold; COLOR: #ff6600
+}
+.style2 {
+	COLOR: #ffffff
+}
+.style3 {
+	FONT-WEIGHT: bold; COLOR: #000000
+}
+.style4 {
+	COLOR: #cc3300
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR:  #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR:  #000000; TEXT-DECORATION: none
+}
+.input1 {
+	BORDER-RIGHT: #ff95bd 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #ff95bd 1px solid; PADDING-LEFT: 2px; FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#FFB9D3); BORDER-LEFT: #ff95bd 1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; BORDER-BOTTOM: #ff95bd 1px solid
+}
+.input2 {
+	BORDER-RIGHT: #c8c6c6 1px solid; BORDER-TOP: #c8c6c6 1px solid; BORDER-LEFT: #c8c6c6 1px solid; BORDER-BOTTOM: #c8c6c6 1px solid
+}
+.systeminfo {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 4px; FILTER: alpha(opacity=90); LEFT: 160px; BORDER-LEFT: #cccccc 1px solid; WIDTH: 120px; BORDER-BOTTOM: #cccccc 1px solid; HEIGHT: 120px; BACKGROUND-COLOR: #ffffff
+}

@@ -1,0 +1,54 @@
+#box { 
+	width:100%; 
+	border-top:1px solid #e1e1e1;
+	border-bottom:1px solid #e1e1e1; 
+	background:#fff; 
+} 
+#box .align {
+	margin:8px;
+	margin-bottom:0px;
+}
+
+#box .image {
+	width:107px;
+	height:150px; 
+	float:left; 
+	border:1px solid #ddd; 
+	margin:6px 6px; 
+	padding:5px; 
+	display: inline;
+	overflow:hidden;
+}
+#box .image:hover {
+	BACKGROUND-COLOR: #eef5ff
+}
+#box .image .boxwenzi{width:9px; height:11px; float:left; line-height:13px; color:#0099FF; border:1px solid #CCCCCC; padding:3px; overflow:hidden;}
+#box .clear {clear:both; height:8px;}
+
+.input {
+	font-size:12px;
+	border:1px solid #ddd;
+	height:16px;
+	padding-top:1px;
+	line-height:16px;
+	margin:3px 0px; 
+	vertical-align:middle;
+}
+#box .check {
+	border:1px solid #ddd;
+	padding:0px 0 0 0px;
+	margin:0px 1px; 
+	vertical-align:middle;
+}
+#box .opp {
+	padding:0px 0 0 0px; TEXT-ALIGN: center
+}
+#box .opp A {
+	BORDER-RIGHT: #ddd 1px solid; padding-top:3px; padding-left:3px; padding-right:2px; BORDER-TOP: #ddd 1px solid;  BORDER-LEFT: #ddd 1px solid; COLOR: #2b82e9; BORDER-BOTTOM: #ddd 1px solid; TEXT-DECORATION: none; margin:0px 1px; BACKGROUND-COLOR: white;
+}
+#box .opp A:hover {
+	BORDER-RIGHT: #8ac0ff 1px solid; BORDER-TOP: #8ac0ff 1px solid; BORDER-LEFT: #8ac0ff 1px solid; COLOR: #2b82e9; BORDER-BOTTOM: #8ac0ff 1px solid; BACKGROUND-COLOR: #eef5ff
+}
+#box .oppe A:active {
+	BORDER-RIGHT: #2b82e9 1px solid; BORDER-TOP: #2b82e9 1px solid; BORDER-LEFT: #2b82e9 1px solid; COLOR: #2b82e9; BORDER-BOTTOM: #2b82e9 1px solid; BACKGROUND-COLOR: #eef5ff
+} 

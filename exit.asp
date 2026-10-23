@@ -1,0 +1,14 @@
+<%
+	Response.Cookies("1dy")("UserID")=""
+	Response.Cookies("1dy")("UserName")=""
+	Response.Cookies("1dy")("yjf")=""
+	Response.Cookies("1dy")("OverTime")=""
+	Response.Cookies("1dy")("tcid")=""
+	response.Cookies("liu")("kid")=""
+	response.Cookies("liu")("tag")=""
+	response.Cookies("liu")("shortpath")=""
+	response.Cookies("liu")("overall")=""
+	response.Cookies("liu")("shuiyin")=""
+	response.Cookies("1dy")("fate")=""
+	response.Redirect("index.asp")
+%>

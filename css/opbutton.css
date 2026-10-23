@@ -1,0 +1,62 @@
+/* 操作按钮样式 */
+#operations{
+margin:0 !important;}
+#operations .userbutton {
+}
+#operations .userbutton a {
+	display:block;
+	height:25px;
+	text-align:left;
+	line-height:25px;
+	text-indent:24px;
+	float:left;
+	padding:0;
+	color:#333;
+	margin:0 3px 0 0;
+	text-decoration:none;
+	background: url(../images/0051.gif) no-repeat left top;
+}
+
+#operations .userbutton a:hover{
+background:url(../images/0050.gif) no-repeat left top;
+}
+
+#operations .userbutton a.remove:link, #operations .userbutton a.remove:visited {
+	background-position:7px 5px;
+}
+#operations .userbutton a.lxiang:link, #operations .userbutton a.lxiang:visited {
+	background-position:5px -36px;
+}
+#operations .userbutton a.delete:link, #operations .userbutton a.delete:visited {
+	background-position:7px -78px;
+}
+#operations .userbutton a.xcopy:link, #operations .userbutton a.xcopy:visited {
+	background-position:7px -116px;
+}
+
+#operations .userbutton a.remove:hover {
+	background-position:left top;
+}
+#operations .userbutton a.lxiang:hover {
+	background-position:left -40px;
+}
+#operations .userbutton a.delete:hover {
+	background-position:left -80px;
+}
+#operations .userbutton a.xcopy:hover {
+	background-position:left -120px;
+}
+
+#operations .remove {
+	width:82px;
+}
+#operations .lxiang {
+	width:82px;
+}
+#operations .delete {
+	width:82px;
+}
+#operations .xcopy {
+	width:82px;
+}
+/* 操作按钮结束 */

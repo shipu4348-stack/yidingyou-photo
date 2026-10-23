@@ -1,0 +1,75 @@
+BODY {
+	MARGIN: 0px
+}
+
+body { background:#a9c6f8; font-size: 12px; margin-top:0px;
+SCROLLBAR-FACE-COLOR: #005774; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; 
+SCROLLBAR-SHADOW-COLOR: #ffffff; SCROLLBAR-DARKSHADOW-COLOR: #005774; 
+SCROLLBAR-3DLIGHT-COLOR: #005774; SCROLLBAR-ARROW-COLOR: #d6dff7;
+SCROLLBAR-TRACK-COLOR: #d6dff7;  
+}
+/*表格标题009ace  to  005774*/
+/*表格背景淡兰色d6dff7 to  d6dff7*/
+/*背景,淡兰色8DDFFB to  a9c6f8*/
+ul,li{ margin:0; padding:0; list-style-type:none;}
+TD {
+	FONT-SIZE: 12px
+}
+INPUT {
+	FONT-SIZE: 12px;
+	HEIGHT: 20px;
+}
+.INPUT {
+	FONT-SIZE: 12px;
+	HEIGHT: 20px;
+	width:140px;
+}
+Button
+{
+	FONT-SIZE: 9pt;
+	HEIGHT: 20px; 
+}
+Select
+{
+	FONT-SIZE: 9pt;
+	HEIGHT: 20px;
+}
+A
+{
+	TEXT-DECORATION: none;
+	color: #000000;
+
+}
+A:hover
+{
+	COLOR: #428EFF;
+	text-decoration: underline;
+
+}
+th
+{
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-COLOR: #005774; Height: 20; COLOR: white; 
+}
+.title
+{
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-COLOR: #005774; Height: 20; COLOR: white; 
+}
+.title2
+{
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; BACKGROUND-IMAGE: url(../Images/admin_title2.gif); PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+.border
+{
+	BORDER-RIGHT: #005774 1px solid; BORDER-TOP: #005774 1px solid; BORDER-LEFT: #005774 1px solid; WIDTH: 99%; BORDER-BOTTOM: #005774 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.border1
+{
+	BORDER-RIGHT: #005774 1px solid; BORDER-TOP: #005774 1px solid; BORDER-LEFT: #005774 1px solid;  BORDER-BOTTOM: #005774 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.tdbg{
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; BACKGROUND: #d6dff7; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+
+.tfont{
+color=#ffffff;}
+ 
